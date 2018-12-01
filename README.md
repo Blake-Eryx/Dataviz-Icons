@@ -3,11 +3,11 @@ SVG icons for data visualization.
 
 # Examples
 
-## Donut chart
+#### Donut chart
 ![alt text](icons/donut.svg "donut")
 
-## Wordcloud
+#### Wordcloud
 ![alt text](icons/wordcloud.svg "donut")
 
-## Heatmap
+#### Heatmap
 ![alt text](icons/heatmap.svg "donut")
