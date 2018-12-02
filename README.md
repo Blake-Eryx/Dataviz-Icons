@@ -4,10 +4,20 @@ SVG icons for data visualization.
 # Examples
 
 #### Donut chart
-![alt text](icons/donut.svg "donut")
+```html
+<img src="icons/donut.svg" style="width:64px;" />
+```
+<img src="icons/donut.svg" style="width:64px;" />
 
 #### Wordcloud
-![alt text](icons/wordcloud.svg "donut")
+
+```html
+<img src="icons/wordcloud.svg" style="width:64px;" />
+```
+<img src="icons/wordcloud.svg" style="width:64px;" />
 
 #### Heatmap
-![alt text](icons/heatmap.svg "donut")
+```html
+<img src="icons/heatmap.svg" style="width:64px;" />
+```
+<img src="icons/heatmap.svg" style="width:64px;" />
